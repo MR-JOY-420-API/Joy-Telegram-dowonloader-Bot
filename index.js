@@ -44,7 +44,7 @@ bot.onText(/\/start|start@.+/, async (msg) => {
    ❝ *Joy-Ahmed* ❞  
 
 📞 *Reach Out*:  
-   🔹 [Facebook](https://www.facebook.com/profile.php?id=100000121528628)  
+   🔹 [Facebook](https://www.facebook.com/profile.php?id=100001435123762)  
    🔹 [Telegram](https://t.me/JOY_AHMED_88)  
 
 🚀 *Fast. Reliable. Easy to use.*  
