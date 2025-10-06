@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 const express = require('express');
 const axios = require('axios');
-const { alldown } = require('nayan-media-downloaders');
+const { alldown } = require('joy-video-dowonloader');
 const fs = require('fs');
 const app = express();
 const port = process.env.PORT || 4000;
