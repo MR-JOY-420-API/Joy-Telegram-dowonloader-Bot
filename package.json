@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.1",
-    "nayan-media-downloaders": "^0.1.6",
+    "joy-video-dowonloader": "^1.0.0",
     "node-telegram-bot-api": "^0.66.0",
     "telegram-user-info": "^1.1.1"
   }
